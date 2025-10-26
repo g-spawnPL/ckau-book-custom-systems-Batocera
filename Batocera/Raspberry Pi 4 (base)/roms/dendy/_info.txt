@@ -1,0 +1,5 @@
+## SYSTEM Dendy Classic ##
+-------------------------------------------------------------------------------
+ROM files extensions accepted: ".nes .unf .unif .zip .7z"
+-------------------------------------------------------------------------------
+Extensions des fichiers ROMs permises: ".nes .unf .unif .zip .7z"

@@ -1,0 +1,5 @@
+## SYSTEM Hitachi MB-6890 Basic Master level 3 ##
+-------------------------------------------------------------------------------
+ROM files extensions accepted: ".wav .7z .zip"
+-------------------------------------------------------------------------------
+Extensions des fichiers ROMs permises: ".wav .zip .7z"

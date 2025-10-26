@@ -1,0 +1,5 @@
+## SYSTEM Colour Genie EG2000 ##
+-------------------------------------------------------------------------------
+ROM files extensions accepted: ".wav .cas .zip .7z"
+-------------------------------------------------------------------------------
+Extensions des fichiers ROMs permises: ".wav .cas .zip .7z"

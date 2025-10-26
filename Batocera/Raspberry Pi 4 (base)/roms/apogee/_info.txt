@@ -1,0 +1,5 @@
+## SYSTEM Apogee BK-01 ##
+-------------------------------------------------------------------------------
+ROM files extensions accepted: ".wav .flac .rka .7z .zip"
+-------------------------------------------------------------------------------
+Extensions des fichiers ROMs permises: ".wav .flac .rka .7z .zip"

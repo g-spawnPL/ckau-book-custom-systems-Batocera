@@ -1,0 +1,5 @@
+## SYSTEM Windows 98 ##
+-------------------------------------------------------------------------------
+ROM files extensions accepted: ".pc .dos .zip .squashfs .dosz .m3u .iso .cue"
+-------------------------------------------------------------------------------
+Extensions des fichiers ROMs permises: ".pc .dos .zip .squashfs .dosz .m3u .iso .cue"

@@ -1,0 +1,5 @@
+## SYSTEM Nikko digiBLAST ##
+-------------------------------------------------------------------------------
+ROM files extensions accepted: ".bin .7z .zip"
+-------------------------------------------------------------------------------
+Extensions des fichiers ROMs permises: ".bin .7z .zip"

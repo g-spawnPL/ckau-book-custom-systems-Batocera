@@ -1,0 +1,5 @@
+## SYSTEM Bandai Datach Joint ROM System ##
+-------------------------------------------------------------------------------
+ROM files extensions accepted: ".nes .unif .unf .zip .7z"
+-------------------------------------------------------------------------------
+Extensions des fichiers ROMs permises: ".nes .unif .unf .zip .7z"

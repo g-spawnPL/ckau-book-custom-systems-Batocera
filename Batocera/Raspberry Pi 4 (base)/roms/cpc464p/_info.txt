@@ -1,0 +1,5 @@
+## SYSTEM Amstrad CPC 464+ ##
+-------------------------------------------------------------------------------
+ROM files extensions accepted: ".mfi .dfi .hfe .mfm .td0 .imd .d77 .d88 .ldd .cqm .cqi .dsk .ipf .7z .zip"
+-------------------------------------------------------------------------------
+Extensions des fichiers ROMs permises: ".mfi .dfi .hfe .mfm .td0 .imd .d77 .d88 .ldd .cqm .cqi .dsk .ipf .7z .zip"

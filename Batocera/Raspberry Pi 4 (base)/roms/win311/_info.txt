@@ -1,5 +1,5 @@
 ## SYSTEM Windows 3.11 ##
 -------------------------------------------------------------------------------
-ROM files extensions accepted: ".exe .bat .cmd .lnk .url .EXE .BAT .CMD .LNK .URL"
+ROM files extensions accepted: ".pc .dos .zip .squashfs .dosz .m3u .iso .cue"
 -------------------------------------------------------------------------------
-Extensions des fichiers ROMs permises: ".exe .bat .cmd .lnk .url .EXE .BAT .CMD .LNK .URL"
+Extensions des fichiers ROMs permises: ".pc .dos .zip .squashfs .dosz .m3u .iso .cue"

@@ -1,0 +1,5 @@
+## SYSTEM Mattel Captain Power and the Soldiers of the Future ##
+-------------------------------------------------------------------------------
+ROM files extensions accepted: ".daphne .squashfs"
+-------------------------------------------------------------------------------
+Extensions des fichiers ROMs permises: ".daphne .squashfs"

@@ -1,0 +1,5 @@
+## SYSTEM Sega Chihiro ##
+-------------------------------------------------------------------------------
+ROM files extensions accepted: ".iso .squashfs .xiso"
+-------------------------------------------------------------------------------
+Extensions des fichiers ROMs permises: ".iso .squashfs .xiso"
