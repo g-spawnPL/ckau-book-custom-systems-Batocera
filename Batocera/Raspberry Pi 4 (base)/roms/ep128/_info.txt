@@ -1,0 +1,5 @@
+## SYSTEM Enterprise One Two Eight ##
+-------------------------------------------------------------------------------
+ROM files extensions accepted: ".img .dsk .tap .dtf .com .trn .128 .bas .cas .cdt .tzx .wav .tvcwav .zip .7z"
+-------------------------------------------------------------------------------
+Extensions des fichiers ROMs permises: ".img .dsk .tap .dtf .com .trn .128 .bas .cas .cdt .tzx .wav .tvcwav .zip .7z"

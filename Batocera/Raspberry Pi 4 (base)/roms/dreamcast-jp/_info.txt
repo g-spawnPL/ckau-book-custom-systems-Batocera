@@ -1,0 +1,5 @@
+## SYSTEM Dreamcast (JAPAN) ##
+-------------------------------------------------------------------------------
+ROM files extensions accepted: ".cdi .cue .gdi .chd .m3u"
+-------------------------------------------------------------------------------
+Extensions des fichiers ROMs permises: ".cdi .cue .gdi .chd .m3u"

@@ -1,0 +1,5 @@
+## SYSTEM Hector 2HR ##
+-------------------------------------------------------------------------------
+ROM files extensions accepted: ".wav .k7 .cin .for .7z .zip"
+-------------------------------------------------------------------------------
+Extensions des fichiers ROMs permises: ".wav .k7 .cin .for .7z .zip"

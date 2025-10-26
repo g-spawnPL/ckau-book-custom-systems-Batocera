@@ -1,5 +1,5 @@
-## SYSTEM Sega Chihiro ##
+## Dinothawr PORT ##
 -------------------------------------------------------------------------------
-ROM files extensions accepted: ".iso .squashfs .xiso"
+ROM files extensions accepted: ".game"
 -------------------------------------------------------------------------------
-Extensions des fichiers ROMs permises: ".iso .squashfs .xiso"
+Extensions des fichiers ROMs permises: ".game"

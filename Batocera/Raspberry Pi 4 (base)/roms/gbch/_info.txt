@@ -1,0 +1,9 @@
+## SYSTEM GAME BOY COLOUR HACK##
+-------------------------------------------------------------------------------
+ROM files extensions accepted: ".gbc .zip .7z"
+
+For more info: https://wiki.batocera.org/systems:gbc
+-------------------------------------------------------------------------------
+Extensions des fichiers ROMs permises: ".gbc .zip .7z"
+
+Trouvez la documentation ici: https://wiki.batocera.org/systems:gbc

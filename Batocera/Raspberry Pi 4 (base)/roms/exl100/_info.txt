@@ -1,0 +1,5 @@
+## SYSTEM Exelvision EXL100 ##
+-------------------------------------------------------------------------------
+ROM files extensions accepted: ".bin .rom .zip .7z"
+-------------------------------------------------------------------------------
+Extensions des fichiers ROMs permises: ".bin .rom .zip .7z"

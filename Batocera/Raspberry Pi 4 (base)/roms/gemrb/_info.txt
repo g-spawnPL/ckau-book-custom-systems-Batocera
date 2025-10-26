@@ -1,0 +1,5 @@
+## SYSTEM GemRB - Infinity Engine Open-Source Implementation ##
+-------------------------------------------------------------------------------
+ROM files extensions accepted: ".auto .bg1 .bg2 .how .iwd .iwd2 .pst"
+-------------------------------------------------------------------------------
+Extensions des fichiers ROMs permises: ".auto .bg1 .bg2 .how .iwd .iwd2 .pst"

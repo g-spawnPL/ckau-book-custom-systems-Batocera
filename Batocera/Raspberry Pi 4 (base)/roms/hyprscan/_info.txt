@@ -1,0 +1,5 @@
+## SYSTEM Mattel HyperScan ##
+-------------------------------------------------------------------------------
+ROM files extensions accepted: ".chd .cue .toc .nrg .gdi .iso .cdr .zip .7z"
+-------------------------------------------------------------------------------
+Extensions des fichiers ROMs permises: ".chd .cue .toc .nrg .gdi .iso .cdr .zip .7z"

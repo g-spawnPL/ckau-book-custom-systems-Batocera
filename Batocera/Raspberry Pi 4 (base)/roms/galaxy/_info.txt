@@ -1,0 +1,5 @@
+## SYSTEM Galaksija ##
+-------------------------------------------------------------------------------
+ROM files extensions accepted: ".gtp .wav .zip .7z"
+-------------------------------------------------------------------------------
+Extensions des fichiers ROMs permises: ".gtp .wav .zip .7z"
